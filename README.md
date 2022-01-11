@@ -1,2 +1,2 @@
-# glauciagusmaogithub.io
+# glauciagusmao.github.io
 HTML, CSS, Javascrit
